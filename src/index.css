@@ -1,0 +1,33 @@
+:root 
+{
+  --primary:#57339F;
+  --secondary:#302525;
+  --background-color:#F8F9FB;
+  --secondary-background-color:#E6E9ED;;
+  --text-color:#11173A;
+  --secondary-text-color:#282D4D;
+  --box-shadow:-1px 4px 20px -6px  rgb(132, 132, 137);
+  --black:#000000;
+  --white:#ffffff;
+  --gray:#717171;
+  --stroke:#A3A3A3;
+  --darkgray:#646464;
+  --fontfamily: 'Montserrat';
+  
+}
+
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+::-webkit-scrollbar
+{
+  display: none;
+}
+
+code {
+  font-family: 'Montserrat', sans-serif;
+}
